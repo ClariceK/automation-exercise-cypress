@@ -1,3 +1,4 @@
+```bash
 Automação E2E com Cypress + BDD
 
 Projeto de automação de testes utilizando Cypress + Cucumber (BDD) com foco em:
@@ -105,3 +106,5 @@ Consistência entre telas
 
 Autora:
 Clarice Oliveira
+
+```
