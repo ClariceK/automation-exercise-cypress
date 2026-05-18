@@ -6,7 +6,7 @@ module.exports = defineConfig({
 
   env: require('./cypress/cypress.env.json'),
   
-  video: false,
+  video: true,
   videosFolder: "cypress/videos",
   videoCompression: 32,
   trashAssetsBeforeRuns: true,
